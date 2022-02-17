@@ -904,8 +904,21 @@ a:focus {
   text-align: center;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 .page-title {
-  background: url("../images/pg-title/img-1.jpg") center center/cover no-repeat local;
+  background: url("../images/slider/about_us.png") center center/cover no-repeat local;
   height: 365px;
   text-align: center;
   position: relative;
@@ -962,6 +975,221 @@ a:focus {
     font-size: 2.1875rem;
   }
 }
+
+
+
+
+/*                */
+
+
+.page-title-services {
+  background: url("../images/slider/7.jpg") center center/cover no-repeat local;
+  height: 365px;
+  text-align: center;
+  position: relative;
+  display: table;
+  width: 100%;
+}
+
+@media (max-width: 1199px) {
+  .page-title-services {
+    height: 300px;
+  }
+}
+
+@media (max-width: 991px) {
+  .page-title-services {
+    height: 270px;
+  }
+}
+
+.page-title-services:before {
+  content: "";
+  background-color: rgba(21, 25, 31, 0.6);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.page-title-services .container {
+  width: 100%;
+  vertical-align: middle;
+  display: table-cell;
+  position: relative;
+}
+
+.page-title-services h1 {
+  font-size: 60px;
+  font-size: 3.75rem;
+  color: #fff;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .page-title-services h1 {
+    font-size: 45px;
+    font-size: 2.8125rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .page-title-services h1 {
+    font-size: 35px;
+    font-size: 2.1875rem;
+  }
+}
+
+
+
+
+
+
+/*                          */
+
+
+
+
+
+.page-title-orga {
+  background: url("../images/slider/orga.png") center center/cover no-repeat local;
+  height: 365px;
+  text-align: center;
+  position: relative;
+  display: table;
+  width: 100%;
+}
+
+@media (max-width: 1199px) {
+  .page-title-orga {
+    height: 300px;
+  }
+}
+
+@media (max-width: 991px) {
+  .page-title-orga {
+    height: 270px;
+  }
+}
+
+.page-title-orga:before {
+  content: "";
+  background-color: rgba(21, 25, 31, 0.6);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.page-title-orga .container {
+  width: 100%;
+  vertical-align: middle;
+  display: table-cell;
+  position: relative;
+}
+
+.page-title-orga h1 {
+  font-size: 60px;
+  font-size: 3.75rem;
+  color: #fff;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .page-title-orga h1 {
+    font-size: 45px;
+    font-size: 2.8125rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .page-title-orga h1 {
+    font-size: 35px;
+    font-size: 2.1875rem;
+  }
+}
+
+
+
+
+
+
+.page-title-contact {
+  background: url("../images/slider/contactss.png") center center/cover no-repeat local;
+  height: 365px;
+  text-align: center;
+  position: relative;
+  display: table;
+  width: 100%;
+}
+
+@media (max-width: 1199px) {
+  .page-title-contact {
+    height: 300px;
+  }
+}
+
+@media (max-width: 991px) {
+  .page-title-contact {
+    height: 270px;
+  }
+}
+
+.page-title-contact:before {
+  content: "";
+  background-color: rgba(21, 25, 31, 0.6);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.page-title-contact .container {
+  width: 100%;
+  vertical-align: middle;
+  display: table-cell;
+  position: relative;
+}
+
+.page-title-contact h1 {
+  font-size: 60px;
+  font-size: 3.75rem;
+  color: #fff;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .page-title-contact h1 {
+    font-size: 45px;
+    font-size: 2.8125rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .page-title-contact h1 {
+    font-size: 35px;
+    font-size: 2.1875rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .preloader {
   background-color: #fff;
